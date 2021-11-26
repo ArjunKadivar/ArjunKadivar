@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">🎯Data Science</h3>
+<img align="right" src="https://github.com/ArjunKadivar/gif/blob/main/my.gif" width="260" height="160" />
 
 - 🔭 I’m currently working on **some personal projects**
 
+
 - 🌱 I’m currently learning **DL and its frameworks**
+
 
 - 📫 How to reach me **arjun.kadivar17@gmail.com**
 
-- ⚡ Fun fact **I 🧡🎮s**
+- ⚡ Fun fact: **I 🧡🎮s**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
