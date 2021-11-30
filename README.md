@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **DL and its frameworks**
 
 
-- 📫 How to reach me **arjun.kadivar17@gmail.com**
+- 📫 How to reach me: <a href="arjun.kadivar17@gmail.com">Arjun Kadivar</a>
 
 - ⚡ Fun fact: **I 🧡🎮s**
 
